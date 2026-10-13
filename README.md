@@ -25,4 +25,13 @@ suma(x,y):
 
 6. **_Tengo hambre y quiero dormir_** <br> **pero los labs no me dejan**
 7. ahora va a aparecer una linea abajo <hr>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+Статистика
+<!-- Карточка с активностью -->
+![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)
+<!-- Карточка с языками программирования -->
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)
